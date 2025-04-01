@@ -17,7 +17,7 @@ switch ($ope){
         $total = multiplica($n1, $n2);
     break;
     case "/":
-        $total = dividi($n1, $n2);
+        $total = divide($n1, $n2);
     break;
 
 }
